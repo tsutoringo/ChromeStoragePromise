@@ -1,0 +1,15 @@
+{
+  "name": "chromestoragepromise",
+  "version": "0.1.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "chrome-extension"
+  ],
+  "author": "tsutoringo",
+  "license": "ISC"
+}
